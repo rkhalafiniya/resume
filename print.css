@@ -1,0 +1,85 @@
+@page {
+    size: portrait;
+    margin: 1.5cm;
+    padding: 0;
+    background-color: white;
+    margin-bottom: 6cm;
+    font-family: sans-serif;
+}
+
+html, body {
+    margin:0;
+    background-color: white;
+}
+html {
+    font-family: sans-serif;
+    /*min-height: 100%;*/
+}
+/* Invoice general */
+#content > table {
+    width: 17cm;
+}
+
+#content {
+    position: relative;
+    left: 0cm;
+    top: 3cm;
+    width: 18cm;
+    max-height: 26.7cm;
+    font-size: 8pt;
+}
+
+#content table th {
+    width: 6cm;
+}
+
+#content table th + td {
+    width: 6cm;
+}
+
+#damage {
+    position: relative;
+    width: 18cm;
+    margin-top: 4cm;
+}
+
+#damage table th {
+    width: 4cm;
+}
+
+#damage table th + td {
+    width: 5cm;
+}
+
+#process img,
+#damage img.damage {
+    max-height: 3.5cm;
+    max-width: 5cm;
+}
+
+/*#content #subject {
+    margin-bottom: 0.4cm;
+}
+
+#content #car-data table td {
+    width: 40%;
+}
+
+/* Accounting period blade * /
+#content #accounting-period {
+    width: 100%;
+    margin-bottom: 0.2cm;
+}
+#content #accounting-period table {
+    width: 100%;
+    font-size: 7pt;
+    border-collapse: collapse;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+#content #accounting-period table th {
+    padding-right: 2cm;
+}
+#content #accounting-period table td {
+    width: 40%;
+}*/
