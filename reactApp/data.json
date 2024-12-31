@@ -1,0 +1,240 @@
+{
+  "address": "Danzigerstr 16, 52351 Düren",
+  "name": "Reza Khalafiniya",
+  "jobTitle": "Full-Stack Developer",
+  "jobDescription": "Very Nice ....",
+  "phoneNumber": "+49 176 845 288 08",
+  "email": "Reza.Khalafiniya@gmail.com",
+  "employments": [
+    {
+      "from": "Sep 2022",
+      "to": "Now",
+      "company": "Fleetpool GmbH",
+      "title": "Software Developer",
+      "description": "",
+      "tasks": [
+        "Continuation of Twyte GbmH position which was merged with Fleetpool GmbH."
+      ],
+      "achievements": []
+    },
+    {
+      "from": "Jan 2022",
+      "to": "Now",
+      "company": "Reza Khalafiniya",
+      "title": "Fullstack Freelance Developer",
+      "description": "",
+      "tasks": [
+        "Customizing and developing new feature on top of a YII application to customer needs.",
+        "Conception, Design and development of a Symfony/VueJs application.",
+        "Creating Wordpress and Shopware plugins."
+      ],
+      "achievements": []
+    },
+    {
+      "from": "Jan 2020",
+      "to": "Dec 2021",
+      "company": "Twyte GmbH",
+      "title": "Backe-end Developer",
+      "description": "",
+      "tasks": [
+        "Developing new software written in PHP/Symfony Framework.",
+        "Adding features to the existing Laravel application.",
+        "Creating APIs for delivering data to external services.",
+        "Creating and customising Shopware Plugins."
+      ],
+      "achievements": []
+    },
+    {
+      "from": "Apr 2017",
+      "to": "Dec 2019",
+      "company": "Questback GmbH",
+      "title": "Technical Consultant",
+      "description": "",
+      "tasks": [
+        "Customizing Zend Framework application to customer needs.",
+        "Providing and communicating with SOAP and Rest APIs to retrieve data from customers.",
+        "Creating interactive solutions for enhanced user experience when answering surveys."
+      ],
+      "achievements": []
+    },
+    {
+      "from": "Jul 2016",
+      "to": "Aug 2017",
+      "company": "Reza Khalafiniya",
+      "title": "Full Stack Developer",
+      "description": "",
+      "tasks": [
+        "Leading none programmers to become programmers through prototype projects.",
+        "Maintaining the infrastructure and developing web applications."
+      ],
+      "achievements": []
+    },
+    {
+      "from": "Jan 2016",
+      "to": "Oct 2016",
+      "company": "trivago GmbH",
+      "title": "Advertiser Quality Manager – Student Job",
+      "description": "",
+      "tasks": [
+        "Assuring the quality of the information provided on the platform and building tools to make the testing more efficient."
+      ],
+      "achievements": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "PHP And It's Frameworks",
+      "level": 90
+    },
+    {
+      "name": "Python",
+      "level": 70
+    },
+    {
+      "name": "Shopware 5/6",
+      "level": 70
+    },
+    {
+      "name": "WordPress",
+      "level": 70
+    },
+    {
+      "name": "RDBMS (MySQL)",
+      "level": 80
+    },
+    {
+      "name": "Linux Servers",
+      "level": 60
+    },
+    {
+      "name": "JavaScript",
+      "level": 80
+    },
+    {
+      "name": "VueJs 3",
+      "level": 80
+    },
+    {
+      "name": "React",
+      "level": 70
+    },
+    {
+      "name": "Containerization",
+      "level": 70
+    },
+    {
+      "name": "Data Visualization",
+      "level": 60
+    },
+    {
+      "name": "NodeJs / Express",
+      "level": 70
+    }
+  ],
+  "educations": [
+    {
+      "from": "October 2015",
+      "to": "Sep 2018",
+      "institute": "University of Duisburg-Essen, Duisburg, Germany",
+      "title": "Bachelor of Science Electrical and Electronic Engineering",
+      "description": "",
+      "location": "",
+      "achievements": []
+    },
+    {
+      "from": "April 2011",
+      "to": "Sep 2014",
+      "institute": "University of Augsburg",
+      "title": "International Master Of Science ‘Materials Science’",
+      "description": "",
+      "location": "Augsburg, Germany",
+      "achievements": []
+    },
+    {
+      "from": "September 2005",
+      "to": "January 2011",
+      "institute": "Science And Research Branch of Azad University",
+      "title": "Bachelor of ‘Material Science and Engineering’",
+      "description": "Bachelor Thesis: Comparing surface hardening of Ti-6Al-4V with Laser Surface Alloying (LSA) Carbon Coating and TIG (Graded 18.5/20)",
+      "location": "Tehran, Iran",
+      "achievements": []
+    }
+  ],
+  "certificates": [
+    {
+      "date": "October 2022",
+      "title": "Professional Scrum Master I (PSM I)",
+      "location": "Scrum.org"
+    },
+    {
+      "date": "April 2013",
+      "title": "Project Management",
+      "location": "University of Augsburg, Augsburg, Germany"
+    },
+    {
+      "date": "October 2011",
+      "title": "Communication and Team",
+      "location": "University of Augsburg, Augsburg, Germany"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Fluent, TOEFL ibt 92"
+    },
+    {
+      "name": "Persian",
+      "level": "Native"
+    },
+    {
+      "name": "German",
+      "level": "Fluent, Telc B2 Certificate"
+    },
+    {
+      "name": "Spanish",
+      "level": "Basics"
+    }
+  ],
+  "hobbies": [
+    {
+      "name": "Physics and developments in engineering and science.",
+      "category": "Science And Electronics"
+    },
+    {
+      "name": "Arduino/Raspberry Pie Projects",
+      "category": "Science And Electronics"
+    },
+    {
+      "name": "3D Printing",
+      "category": "Science And Electronics"
+    },
+    {
+      "name": "Taekwondo(Red Belt)",
+      "category": "Sport"
+    },
+    {
+      "name": "Chess",
+      "category": "Sport"
+    },
+    {
+      "name": "Archery",
+      "category": "Sport"
+    },
+    {
+      "name": "Climbing",
+      "category": "Sport"
+    },
+    {
+      "name": "Volleyball",
+      "category": "Sport"
+    },
+    {
+      "name": "Badminton",
+      "category": "Sport"
+    },
+    {
+      "name": "Football",
+      "category": "Sport"
+    }
+  ]
+}
